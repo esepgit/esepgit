@@ -2,20 +2,15 @@
 
 Programador muy motivado por aprender y alcanzar nuevas metas, buscador del **One Piece** 👒 de la programacion.
 
-## En que estoy trabajando 🔭
-- Practicando con proyectos Responsive Design en HTML y CSS
-
 ## Que estoy aprendiendo 🌱
-- JavaScript
-- Git
-- Github
+- Express
+- React
 
 ## Mis conocimientos 🔥
 - HTML
 - CSS
-
-### Por aprender 🚧
-- React
+- JavaScript
+- Bootstrap
 
 <!--
 **esepgit/esepgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
