@@ -1,16 +1,10 @@
-# Hola soy Esep 👋
 
-Programador muy motivado por aprender y alcanzar nuevas metas, buscador del **One Piece** 👒 de la programacion.
+<h1>Wellcome! ☀️</h1>
 
-## Que estoy aprendiendo 🌱
-- Express
-- React
+<img src="https://media.giphy.com/media/UV5fEvKclCBEi3DgzH/giphy.gif" width="200" height="200"/>
 
-## Mis conocimientos 🔥
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 <!--
 **esepgit/esepgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
