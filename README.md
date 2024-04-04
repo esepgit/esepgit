@@ -1,5 +1,5 @@
 
-<h1>Wellcome! ☀️</h1>
+<h1>Welcome! ☀️</h1>
 
 <img src="https://media.giphy.com/media/UV5fEvKclCBEi3DgzH/giphy.gif" width="200" height="200"/>
 
